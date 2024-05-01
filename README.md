@@ -4,7 +4,6 @@ Project in Application Development
 
 
 Members:
-
 Martinez, Jose Emmanuel C.
 Surio, Raymer E.
 Orani, Bengie C.
